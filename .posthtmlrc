@@ -6,13 +6,246 @@
     "posthtml-expressions": {
       "root": "./src/partials",
       "locals": {
-        "top": [],
-        "body": [],
+        "top": [
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          }
+        ],
+        "body": [
+          {
+            "type": "text",
+            "value": "Spectator reviewed the <a href=\"https://web.archive.org/web/20230612092355/https://universitypolicies.columbia.edu/content/university-event-policy\">University Event Policy</a> and the <a href=\"https://web.archive.org/web/20230612091142/https://universitypolicies.columbia.edu/content/student-group-event-policy-and-procedure\">Student Group Event Policy and Procedure</a> webpages using Wayback Machine, a digital internet archive, as they appeared on June 12, the last time Wayback Machine recorded the site prior to<a href=\"https://www.columbiaspectator.com/news/2023/11/10/columbia-suspends-sjp-and-jvp-following-unauthorized-thursday-walkout/\"> the SJP and JVP suspensions</a>."
+          },
+          {
+            "type": "text",
+            "value": "As of Friday, the current versions of the webpages included several additions and alterations to the earlier versions."
+          },
+          {
+            "type": "text",
+            "value": "Undergraduate Student Life was asked to circulate the “updated” policies and shared them with several student governing bodies on Oct. 25, according to an email that seven student leaders with direct knowledge of the matter provided to Spectator. USL sent another email on Nov. 7 asking the governing bodies to “Re-read the updated (as of October 24) University Event Policy and Student Group Event Policy and Procedure and the Vigil Policy, which outline university policy and timelines.”"
+          },
+          {
+            "type": "text",
+            "value": "The update came less than two weeks after the Oct. 12 protests."
+          },
+          {
+            "type": "text",
+            "value": "In the emails, the updates to the policy webpages were one of several announcements made to the governing bodies. Barnard’s Student Government Association and the Club Sports Governing Board were not notified of the updates, student leaders from the organizations told Spectator."
+          },
+          {
+            "type": "text",
+            "value": "USL’s Oct. 25 email reiterated a 10-business-day requirement for approving on-campus events and reminded students that some events will require an event review, special event approval, or additional logistical coordination. Its Nov. 7 email specifically cited the “Sanctioning for Failure to Obtain Event Approval and/or Not Abiding by Terms of An Approved Event (Student Organization and Individual Accountability),” which was not part of the previous version of the webpage, as “especially important.” The email emphasized that “individuals and unrecognized groups do not have the ability to reserve space on-campus.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, a University official wrote that the “special events process is not new” and that in the days after Hamas’ Oct. 7 attack, “faced with intense emotions on all sides and urgent demands for many events,” including vigils and protests, “the University felt an obligation to restate and clarify these policies as clearly as possible to make sure there would be no misunderstanding of them.”"
+          },
+          {
+            "type": "text",
+            "value": "“The restatement also specified potential sanctions should there be a policy violation,” the University official added. “Student advisers worked with the affected student groups, including Students for Justice in Palestine and Jewish Voice for Peace, to make them aware of these policies and how they would apply prospectively to upcoming events.”"
+          },
+          {
+            "type": "text",
+            "value": "The University official wrote that the Special Events Policy “restatement” also clarified the University’s vigil policy, which they wrote gives vigils “more flexibility than large-scale protests, which typically raise greater safety concerns.”"
+          },
+          {
+            "type": "text",
+            "value": "“We are committed to preserving an environment in which debate and protest are encouraged and protected,” the University official wrote. “That requires having processes and procedures to preserve the safety of our campuses and enforcing those requirements consistently for all groups, regardless of the views being expressed.”"
+          },
+          {
+            "type": "text",
+            "value": "It was not immediately clear whether the policies highlighted in the “restatement” to which the University official referred had been made public prior to the Oct. 24 webpage updates."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "safe-and-responsible.html"
+            }
+          },
+          {
+            "type": "subhed",
+            "value": {
+              "value": "Updates to the University Event Policy webpage"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Columbia holds the power to suspend groups, temporarily cutting off their access to funding and eligibility to hold on-campus events, as it did to SJP and JVP. But the power to sanction groups—including derecognition—is “unprecedented” and “by no means a power the University has had in the past,” Cody Baynori, CC ’23, Student Governing Board chair for the 2022-23 academic year, said."
+          },
+          {
+            "type": "text",
+            "value": "The updated Student Group Event Policy and Procedure webpage states that Columbia can sanction student organizations and their members under the Rules of University Conduct and Student Standards and Discipline."
+          },
+          {
+            "type": "text",
+            "value": "The University’s ability to sanction individual members of organizations was “something that I have never heard of happening in the past,” Baynori said."
+          },
+          {
+            "type": "text",
+            "value": "“They’ll only compromise with students insofar as it reflects their own ideologies, and the minute … students step out of line and begin raising their voices for something that doesn’t reflect the institution’s beliefs, that’s when the other shoe drops, and that’s when they’re walking back from the so-called compromises that they had pretended to give us,” Baynori said. “So that’s a little bleak.”"
+          },
+          {
+            "type": "text",
+            "value": "SJP and JVP are recognized under the Student Governing Board, which oversees “spiritual, ideological, political, humanitarian, cultural, or activist” groups, according to its website. SGB holds the jurisdiction to hear complaints regarding its member organizations that “relate to violation of University rules,” according to Section 1 of <a href=\"https://docs.google.com/document/d/1zHN6SsFoUrwyKD12kaDbqYd4YQ-mCiL2_w20-sWVHlo/edit\">SGB’s judiciary process</a>."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://docs.google.com/document/d/1cjEEIdUU2ZO2adAgMTtG1pZJbq8JOxxQnH8BGEQi3X4/edit\">SGB’s constitution</a> gives its executive board judiciary power to “adjudicate disputes between and within groups, review complaints received in writing, and take disciplinary action when required.” USL’s Nov. 7 email affirmed SGB and the Activities Board at Columbia’s authority to adjudicate alleged policy violations and wrote that “individual students may be referred to the University Rules administrator or to the individual student’s school Conduct process.”"
+          },
+          {
+            "type": "text",
+            "value": "An additional section on the current version of the <a href=\"https://universitypolicies.columbia.edu/content/university-event-policy\">University Event Policy</a> webpage, titled “Safe and Responsible Event,” specifies Columbia’s power to restrict “certain activities when the University believes there is a genuine threat of harassment and/or the potential for an unmanageable safety concern.”"
+          },
+          {
+            "type": "text",
+            "value": "A subsection of that new addition, titled “Failure to Comply with Events Policy,” reads that groups or individuals that breach the policy “will be subject to discipline and sanctions consistent with applicable University policy.”"
+          },
+          {
+            "type": "text",
+            "value": "“Student groups proceeding without approval may lose the right to sponsor events and/or become ineligible for University recognition or funding,” the addition reads."
+          },
+          {
+            "type": "text",
+            "value": "Rosberg linked to the University Event Policy in <a href=\"https://news.columbia.edu/news/statement-gerald-rosberg-chair-special-committee-campus-safety\">his email</a> announcing SJP and JVP’s suspension, effective through the end of the fall term."
+          },
+          {
+            "type": "subhed",
+            "value": {
+              "value": "Updates to the Student Group Event Policy and Procedure webpage"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The current version of the Student Group Event Policy and Procedure webpage includes an additional section titled “Sanctioning for Failure to Obtain Event Approval and/or Not Abiding by Terms of An Approved Event (Student Organization and Individual Accountability).”"
+          },
+          {
+            "type": "text",
+            "value": "“It is within the University administration’s sole discretion to determine whether or not there has been a violation of the Event Policy and Procedure and what the appropriate sanctions shall be and the duration of such sanction,” the section reads. “Sanctions made under this policy are final and not appealable.”"
+          },
+          {
+            "type": "text",
+            "value": "Student organizations and individual members of organizations may be subject to sanctions that include but are not limited to: allocation deduction, account freeze, loss of space reservation abilities, banning individuals from leadership positions, group probation, group suspension, and group derecognition."
+          },
+          {
+            "type": "text",
+            "value": "“Finally, nothing herein limits the application of the Rules of University Conduct and/or Student Standards and Discipline to individual members and/or leaders of a student group for their behavior in connection with a sanctioned or unsanctioned event,” the policy reads."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "uni-policy-annotation.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The previous version of the Student Group Event Policy and Procedure webpage defined “Special Events” as events that create “security concerns on the part of the recognized student group, advisers, or guest.” The current version does not include the language following “security concerns.” Events posing potential security concerns may be reviewed by “the appropriate advising office or officers from the sponsoring group’s school,” the current webpage reads."
+          },
+          {
+            "type": "text",
+            "value": "For these “Special Events,” the updated webpage states that “space and service application must be completed and submitted no later than 10 business days (preferably 15 business days) before the requested date of the event.” A previous version of the webpage did not include the 15 business days preference."
+          },
+          {
+            "type": "text",
+            "value": "Per the updated webpage, a non-Columbia ID holder who participates “in an unauthorized event, or in an approved event but does not follow the approved parameters of such event,” may be barred from entering campus in the future."
+          },
+          {
+            "type": "text",
+            "value": "If an alleged University policy violation falls outside of the purview of a governing board, it is referred to the Student Group Adjudication Board, a group composed of five or six representatives from the SGB, Activities Board at Columbia, General Studies Student Council, Columbia College Student Council, and the Engineering Student Council, according to the board’s <a href=\"https://www.cc-seas.columbia.edu/adjudication\">USL webpage</a>."
+          },
+          {
+            "type": "text",
+            "value": "The Student Group Adjudication Board holds several sanctioning powers, according to the board’s USL webpage, including but not limited to allocation deduction, account freeze, loss of space reservation abilities, banning individuals from leadership positions, group probation, group suspension, and group derecognition."
+          },
+          {
+            "type": "text",
+            "value": "Those same sanctions are under Columbia’s “sole discretion,” according to the current version of the Student Group Event Policy and Procedure webpage. A previous version of the webpage did not list those sanctioning powers."
+          },
+          {
+            "type": "text",
+            "value": "An organization can appeal the Student Group Adjudication Board’s decision on its alleged policy violation. However, according to the updated Student Group Event Policy and Procedure webpage, Columbia’s decisions are “final and not appealable.”"
+          },
+          {
+            "type": "subhed",
+            "value": {
+              "value": "‘A betrayal of Columbia’s values’"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The Special Committee on Campus Safety has been meeting at least once per day since Oct. 7, a University spokesperson told Spectator last Friday."
+          },
+          {
+            "type": "text",
+            "value": "Chaired by Rosberg, who signed the announcement of SJP and JVP’s suspension, the committee includes representatives from Public Safety, University Life, Communications, and the Offices of the President, Provost, and General Counsel, according to the University spokesperson. It does not include students or faculty, making it insular to members of administration, according to a tenured faculty member with knowledge of the situation."
+          },
+          {
+            "type": "text",
+            "value": "Morningside campus access has been <a href=\"https://www.columbiaspectator.com/news/2023/10/17/public-safety-keeps-morningside-heights-campus-gates-closed-out-of-an-abundance-of-caution-frustrating-students/\">restricted</a> to Columbia ID holders five times since Oct. 12 in anticipation of planned protests on campus. The University has also increased its New York City Police Department and Public Safety presence."
+          },
+          {
+            "type": "text",
+            "value": "“Our campus has been operating in a highly charged atmosphere where safety concerns are real, not theoretical,” the University official wrote. “The University has heard from many students – Jewish, Palestinian, Arab, Muslim and many others – that they feel unsafe on campus, especially during protest activity. Many of these events may attract persons who are not members of our own community, which heightens safety concerns.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, General Studies Student Council President Nasser Odetallah, GS ’24, expressed his concern with the lack of transparency regarding the formation of the Committee."
+          },
+          {
+            "type": "text",
+            "value": "“My personal feelings about the specific groups in question aside, I will say, as a student leader on campus, I am troubled by the idea that there is now a new Committee in the administration that, with little notice, has superseded the normal violations process and has begun suspending student groups,” Odetallah wrote. “I worry about the precedent this is setting and the misusage of this power moving forward when it comes to student activities.”"
+          },
+          {
+            "type": "text",
+            "value": "The executive committee of the Columbia chapter of the American Association of University Professors, made up of five Columbia faculty members, sent a letter to senior administration on Wednesday raising concerns about the changes to the Student Group Event Policy and Procedure and University Event Policy webpages. The faculty members questioned who wrote and approved the updated language in the sanctioning procedures."
+          },
+          {
+            "type": "text",
+            "value": "“This series of actions flagrantly contravenes University rules and procedures,” the faculty members wrote. “We call upon the senior administration to recommit to shared faculty governance, and to nullify improperly authorized committees, actions, and policies that circumvent channels of governance at the University and the core principle of free speech.”"
+          },
+          {
+            "type": "text",
+            "value": "David Lurie, a professor of Asian humanities and associate professor of Japanese history and literature who sits on the committee that wrote the letter, said in an interview with Spectator that the policy changes “portend a very significant deterioration in the already unduly limited ability of the faculty and students to have a voice in decisions that are being made at every level of the University.”"
+          },
+          {
+            "type": "text",
+            "value": "Lurie is <a href=\"https://www.columbiaspectator.com/news/2023/11/16/faculty-protest-against-suspension-of-sjp-jvp/\">one of many faculty members</a> raising concerns regarding free speech and transparency on campus following the suspension of SJP and JVP. He cited the Rules of University Conduct, which includes a statement defending freedom of expression."
+          },
+          {
+            "type": "text",
+            "value": "“Although the University values the civil and courteous exchange of viewpoints, it does not limit discussion because the ideas expressed might be thought offensive, immoral, disrespectful, or even dangerous,” the rules read. “We expect that members of our community will engage in public discussions that may confront convention, and free expression would mean little if it did not include the right to express what others may reject or loathe.”"
+          },
+          {
+            "type": "text",
+            "value": "The Rules of University Conduct date back to 1968, when campus protests against the Vietnam War and plans for <a href=\"https://www.columbiaspectator.com/sports/2022/02/15/gym-crow-looking-back-on-the-1968-morningside-gym-protests/\">a gymnasium</a> in Morningside Park rocked campus. The University revised the rules in 2015, according to its <a href=\"https://universitylife.columbia.edu/cu-rules-of-conduct\">website</a>, “to strengthen the right of freedom of expression” on campus."
+          },
+          {
+            "type": "text",
+            "value": "“This is the true Columbia,” Lurie said, pointing to a hard copy of the rules on his desk. “This is Columbia’s DNA, what you read in this affirmative statement. And the things that have been done by senior administrators in recent weeks are not the true Columbia, they’re a betrayal of Columbia’s values.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Shea Vance contributed reporting.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Sarah Huddleston can be contacted at </i><a href=\"mailto:sarah.huddleston@columbiaspectator.com\"><i>sarah.huddleston@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Columbia updated its event policy webpages. Twelve days later, it suspended SJP and JVP.",
+        "date": "November 17, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Sarah-Huddleston\">Sarah Huddleston</a>\nEdited by <a href=\"https://columbiaspectator.com/contributors/irie-sentner\">Irie Sentner</a>, <a href=\"https://www.columbiaspectator.com/contributors/Isabella-Ramirez\">Isabella Ramírez</a>, <a href=\"https://columbiaspectator.com/contributors/esha-karam\">Esha Karam</a>, <a href=\"https://www.columbiaspectator.com/contributors/Shea-Vance/\">Shea Vance</a>\nDesign by <a href=\"https://www.columbiaspectator.com/contributors/Andrew-Park/\">Andrew Park</a>\nCover photo by <a href=\"https://www.columbiaspectator.com/contributors/Gabriella-Gregor-Splaver/\">Gabriella Gregor Splaver</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1pZEysDvFAXyIf4ngLbY_e5-fluY-_5PZkDJ0T92XlSI/edit"
       }
     }
   }

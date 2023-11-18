@@ -1,25 +1,26 @@
 {
-  "name": "",
+  "name": "events-policy-change",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "parcel src/index.html --global script",
-    "build": "parcel build src/index.html --global script --public-url . --no-content-hash",
+    "build": "parcel build src/index.html --global script --public-url https://spectator-static-assets.s3.amazonaws.com/events-policy-change --no-content-hash",
     "postinstall": "patch-package"
   },
   "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/helper-create-regexp-features-plugin": "^7.21.8",
     "cssnano": "^4.1.10",
     "eslint": "^7.0.0",
     "parcel-bundler": "1.12.3",
     "patch-package": "^6.2.2",
     "posthtml-expressions": "1.4.0",
     "posthtml-include": "^1.4.3",
-    "sass": "^1.26.5",
-    "@babel/helper-create-regexp-features-plugin": "^7.21.8",
-    "@babel/core": "^7.21.8"
+    "sass": "^1.26.5"
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
+    "scrollama": "^3.2.0",
     "text-balancer": "^1.0.5"
   },
   "browserslist": [
@@ -35,6 +36,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1pZEysDvFAXyIf4ngLbY_e5-fluY-_5PZkDJ0T92XlSI/edit"
   }
 }

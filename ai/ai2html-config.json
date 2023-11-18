@@ -5,7 +5,7 @@
     {
       "aifont": "Roboto-Regular",
       "family": "Roboto,arial,helvetica,sans-serif",
-      "weight": "",
+      "weight": "400",
       "style": ""
     },
     {
@@ -27,10 +27,22 @@
       "style": ""
     },
     {
-      "aifont": "Roboto-Thin",
+      "aifont": "Roboto-Medium",
       "family": "Roboto,arial,helvetica,sans-serif",
-      "weight": "1000",
+      "weight": "500",
       "style": ""
+    },
+    {
+      "aifont": "Roboto-MediumItalic",
+      "family": "Roboto,arial,helvetica,sans-serif",
+      "weight": "500",
+      "style": "italic"
+    },
+    {
+      "aifont": "Roboto-BoldItalic",
+      "family": "Roboto,arial,helvetica,sans-serif",
+      "weight": "700",
+      "style": "italic"
     }
   ]
 }

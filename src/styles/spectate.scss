@@ -204,6 +204,7 @@ header {
   }
 }
 
+
 .cover-hed #headline {
   margin-top: 10px;
 }
@@ -506,4 +507,16 @@ header {
     margin-top: 29px;
     margin-bottom: 30px;
   }
+}
+
+header.g-body{
+  margin-top:15vh;
+}
+
+#headline{
+  margin-top:20vh;
+}
+
+#scrolly-background{
+  object-fit:cover;
 }
